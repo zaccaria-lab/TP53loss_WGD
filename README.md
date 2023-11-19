@@ -15,7 +15,7 @@ In addition the CNA calling pipeline from PC9 cell lines is [available](cnacalli
 
 Executing the code in this repository requires to first download the publicly available pre-process data:
 
-[Zenodo link to appear soon]()
+[Zenodo TP53loss WGD data](https://doi.org/10.5281/zenodo.10156620)
 
 Moreover, the code is implemented in Python 3 and a `conda` enviroment ([miniconda](https://docs.conda.io/projects/miniconda/en/latest/) reccomended) with all the requirements can be created with the following command (use of [mamba](https://mamba.readthedocs.io/en/latest/) is reccomended):
 
