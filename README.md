@@ -9,6 +9,8 @@ Pre-executed notebooks and demos for the different analyses are available for:
 - [PC9 bulk analysis](scripts/PC9_analysis.ipynb)
 - [PC9 human-mouse gene frequency analysis](scripts/freq_analysis.ipynb)
 
+In addition the CNA calling pipeline from PC9 cell lines is available in `cnacalling_PC9/`.
+
 ## Requirements
 
 Executing the code in this repository requires to first download the publicly available pre-process data:
